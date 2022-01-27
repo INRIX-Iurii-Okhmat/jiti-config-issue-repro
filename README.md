@@ -1,0 +1,1 @@
+# jiti-config-issue-repro
